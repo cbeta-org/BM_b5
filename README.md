@@ -7,4 +7,4 @@ BM_b5
 
 版權說明請參考
 
-https://www.cbeta.org/copyright.php
+https://cbeta.org/copyright
